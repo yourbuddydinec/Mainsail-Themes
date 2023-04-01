@@ -26,3 +26,5 @@ Polymaker Theme
 LM Show Theme
 ```
 ![LM Show Theme](https://github.com/yourbuddydinec/Mainsail-Themes/blob/main/Screenshots/LM%20Show%20Theme.PNG?raw=true)
+
+<hr>
