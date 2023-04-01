@@ -13,11 +13,14 @@ and it will install it to the one you want. If you have multiple klipper instanc
 or use different themes on each printer. 
 Just delete the files and refresh your browser to turn the theme off. 
 
+<hr>
 
 ```
 Polymaker Theme
 ```
 ![Polymaker Theme](https://github.com/yourbuddydinec/Mainsail-Themes/blob/main/Screenshots/Polymaker%20Theme.PNG?raw=true)
+
+<hr>
 
 ```
 LM Show Theme
