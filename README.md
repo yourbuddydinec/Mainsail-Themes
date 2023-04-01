@@ -13,6 +13,8 @@ and it will install it to the one you want. If you have multiple klipper instanc
 or use different themes on each printer. 
 Just delete the files and refresh your browser to turn the theme off. 
 
+[Also check out my Klipper Music and TTS Player!](https://github.com/yourbuddydinec/Klipper-Music-Player)
+
 <hr>
 
 ```
@@ -28,3 +30,5 @@ LM Show Theme
 ![LM Show Theme](https://github.com/yourbuddydinec/Mainsail-Themes/blob/main/Screenshots/LM%20Show%20Theme.PNG?raw=true)
 
 <hr>
+
+
