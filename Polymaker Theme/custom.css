@@ -7,7 +7,12 @@
   --color3: #383838; /* Left and top Main Bars plus reprint button */
   --color4: #ff0000; /* Left and top Main Bars plus reprint button */
   --text-color: #14b3d4; /* most text besides major console stuff which is changed using fluidd main color changer */
+  --macro-text-color: #ffffff; /* Text color for macro buttons */
   --logo-size: 150px;
+}
+
+[class*="macro"] .v-btn--has-bg .v-btn__content {
+    color: var(--macro-text-color) !important;
 }
 
 /* Panel Top Right Buttons */
