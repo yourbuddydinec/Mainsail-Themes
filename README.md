@@ -24,10 +24,13 @@ Polymaker Theme
 
 <hr>
 
+
+<hr>
+
 ```
-LM Show Theme
+ZH Theme
 ```
-![LM Show Theme](https://github.com/yourbuddydinec/Mainsail-Themes/blob/main/Screenshots/LM%20Show%20Theme.PNG?raw=true)
+![ZH Theme](https://github.com/yourbuddydinec/Mainsail-Themes/blob/main/Screenshots/ZH%20Theme.PNG?raw=true)
 
 <hr>
 
